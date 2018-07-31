@@ -2,4 +2,3 @@ Web Scraping: https://www.youtube.com/watch?v=52wxGESwQSA
 
 Some Githubs: https://github.com/theriley106/SneakerBotTutorials
               https://github.com/vardaro/Adidas-Sneaker-Bot
-              
