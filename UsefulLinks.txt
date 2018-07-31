@@ -2,3 +2,8 @@ Web Scraping: https://www.youtube.com/watch?v=52wxGESwQSA
 
 Some Githubs: https://github.com/theriley106/SneakerBotTutorials
               https://github.com/vardaro/Adidas-Sneaker-Bot
+              https://github.com/dzt/trimalchio
+              https://github.com/Snivyn/sharanga-shopify-bot
+              https://github.com/dzt/shopify-monitor-atc
+              https://github.com/dzt/shopify-monitor
+              
