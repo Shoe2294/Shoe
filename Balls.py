@@ -5,7 +5,7 @@ from Tkinter import *
 import time
 import random
 
-WIDTH = 1000
+WIDTH = 10000
 HEIGHT = 1000
 
 tk = Tk()
