@@ -1,5 +1,5 @@
 import argparse
-from urllib2 import Request, urlopen, URLError
+from urllib.request import Request, urlopen, URLError
 from lxml.cssselect import CSSSelector
 from lxml.html import fromstring, tostring
 import sys
@@ -24,7 +24,6 @@ class CSVWriter(object):
         mycsvfile = open(file_name, 'wb')
         self.wr = csv.writer(mycsvfile, quoting=csv.QUOTE_ALL)
         self.wr.writerow(header)
-
     def write(self, write_list):
         self.wr.writerow(write_list)
 
